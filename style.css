@@ -151,7 +151,7 @@ section {
   height: 100vh;
 }
 #qualification {
-  background-image: url(/1816.jpg);
+  background-image: url(1816.jpg);
   background-size: cover;
   height: 100vh;
   text-align: center;
@@ -160,7 +160,7 @@ section {
   color: #ffffff;
 }
 #home {
-  background-image: url(/istockphoto-1476981828-170667a.webp);
+  background-image: url(istockphoto-1476981828-170667a.webp);
   background-size: cover;
   height: 100vh;
 }
@@ -223,13 +223,13 @@ i {
   transition: 1s;
 }
 #skills {
-  background-image: url(/abstract-white-background-minimal-geometric-white-light-background-abstract-design_249611-8808.webp);
+  background-image: url(abstract-white-background-minimal-geometric-white-light-background-abstract-design_249611-8808.webp);
   background-size: cover;
   height: 100vh;
   filter: blur(100);
 }
 #contact{
-  background-image: url(/textured-backgound.jpg);
+  background-image: url(textured-backgound.jpg);
   background-size: cover;
   height: 100vh;
   color: #ffffff;
